@@ -32,7 +32,7 @@ plugins:
   - convertColors
   - removeUnknownsAndDefaults
   - removeNonInheritableGroupAttrs
-  - removeUselessStrokeAnd
+  - removeUselessStrokeAndFill
   - removeFillIfNotNone
   - removeViewBox
   - cleanupEnableBackground
